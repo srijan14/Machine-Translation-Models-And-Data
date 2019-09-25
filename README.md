@@ -9,7 +9,7 @@ This repository contains different machine translation models trained using tran
 |     [v1](https://github.com/srijan14/Machine-Translation-Models/tree/master/eng-hin/v1)        |     12.02     |
 
 
-Below repository can be used to run the model for translation, and can also be used for document translation.
+Below repository can be used to run the model for translation, and can also be used to perform document level translation using a web interface.
 
 
 **Usage**
@@ -19,4 +19,4 @@ Below repository can be used to run the model for translation, and can also be u
 
 **References**
 
-1. Testing data for calculcation bleu score has been taken from this [repo](https://github.com/joshua-decoder/indian-parallel-corpora)
+1. Testing data for calculcating bleu score has been taken from this [repo](https://github.com/joshua-decoder/indian-parallel-corpora)
