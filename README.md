@@ -6,4 +6,4 @@ This repository contains different machine translation trained on custom made pl
 
 | Version       | Blue Score    |
 | ------------- | ------------- |
-|     V1        |     12.02     |
+|     [V1](https://github.com/srijan14/Machine-Translation-Models/tree/master/eng-hin/v1)        |     12.02     |
