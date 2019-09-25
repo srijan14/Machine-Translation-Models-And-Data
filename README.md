@@ -1,6 +1,6 @@
 # Machine-Translation-Models
 
-This repository contains different machine translation trained on custom made plus open source datasets.
+This repository contains different machine translation models trained using transformer architecture on custom made plus some open source datasets.
 
 ### 1. English-Hindi
 
