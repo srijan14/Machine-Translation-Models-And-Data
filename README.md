@@ -1,4 +1,9 @@
 # Machine-Translation-Models
-This repository contains different machine translation trained on custom and open source datasets.
 
-### 1. Eng-Hin
+This repository contains different machine translation trained on custom made plus open source datasets.
+
+### 1. English-Hindi
+
+| Version       | Blue Score    |
+| ------------- | ------------- |
+|     V1        |     12.02     |
