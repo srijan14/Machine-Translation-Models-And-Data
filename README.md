@@ -4,7 +4,7 @@ This repository contains different machine translation trained on custom made pl
 
 ### 1. English-Hindi
 
-| Version       | Blue Score    |
+| Version       | Bleu Score    |
 | ------------- | ------------- |
 |     [v1](https://github.com/srijan14/Machine-Translation-Models/tree/master/eng-hin/v1)        |     12.02     |
 
