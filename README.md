@@ -1,12 +1,12 @@
 # Machine-Translation-Models
 
-This repository contains different machine translation trained on custom made plus open source datasets.
+This repository contains different machine translation models trained using transformer architecture on custom made plus some open source datasets.
 
 ### 1. English-Hindi
 
-| Version       | Blue Score    |
+| Version       | Bleu Score    |
 | ------------- | ------------- |
-|     [V1](https://github.com/srijan14/Machine-Translation-Models/tree/master/eng-hin/v1)        |     12.02     |
+|     [v1](https://github.com/srijan14/Machine-Translation-Models/tree/master/eng-hin/v1)        |     12.02     |
 
 
 ### 2. English-German
@@ -16,11 +16,14 @@ This repository contains different machine translation trained on custom made pl
 |     [V1](https://github.com/srijan14/Machine-Translation-Models/tree/master/eng-ger/v1)        |     28.09     |
 
 
-Below repository can be used to run the model for translation, and can also be used for document translation.
+### **Usage**
+
+Below repositories can be used to use the model for translation, and can also be used to perform document level translation using a web interface.
 
 [Document Machine Translation](https://github.com/srijan14/Document-Machine-Translation)
+[text-translator](https://pypi.org/project/text-translator/)
 
 
 **References**
 
-1. Testing data for calculcation bleu score has been taken from this [repo](https://github.com/joshua-decoder/indian-parallel-corpora)
+1. Testing data for calculcating bleu score has been taken from this [repo](https://github.com/joshua-decoder/indian-parallel-corpora)
