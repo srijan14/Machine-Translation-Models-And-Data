@@ -13,7 +13,7 @@ This repository contains different machine translation models trained using tran
 
 | Version       | Blue Score    |
 | ------------- | ------------- |
-|     [V1](https://github.com/srijan14/Machine-Translation-Models/tree/master/eng-ger/v1)        |     28.09     |
+|     [v1](https://github.com/srijan14/Machine-Translation-Models/tree/master/eng-ger/v1)        |     28.09     |
 
 
 ### **Usage**
@@ -21,6 +21,7 @@ This repository contains different machine translation models trained using tran
 Below repositories can be used to use the model for translation, and can also be used to perform document level translation using a web interface.
 
 [Document Machine Translation](https://github.com/srijan14/Document-Machine-Translation)
+
 [text-translator](https://pypi.org/project/text-translator/)
 
 
