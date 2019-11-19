@@ -22,7 +22,7 @@ Below repositories can be used to use the model for translation, and can also be
 
 [Document Machine Translation](https://github.com/srijan14/Document-Machine-Translation)
 
-[text-translator](https://pypi.org/project/text-translator/)
+[text-translator](https://github.com/srijan14/text-translator)
 
 
 **References**
