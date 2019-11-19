@@ -1,3 +1,4 @@
 mapping.txt
 *.pt
 .idea/
+model.pt
